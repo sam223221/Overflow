@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\samgl\\Documents\\GitHub\\Overflow\\OverFlow\\OverFlow\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\OverFlow.bundle.scp.css",
+      "PackagePath": "staticwebassets\\OverFlow.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\samgl\\Documents\\GitHub\\Overflow\\OverFlow\\OverFlow\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\samgl\\Documents\\GitHub\\Overflow\\OverFlow\\OverFlow\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\samgl\\Documents\\GitHub\\Overflow\\OverFlow\\OverFlow\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\samgl\\Documents\\GitHub\\Overflow\\OverFlow\\OverFlow\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.OverFlow.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.OverFlow.props",
+      "PackagePath": "build\\OverFlow.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.OverFlow.props",
+      "PackagePath": "buildMultiTargeting\\OverFlow.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.OverFlow.props",
+      "PackagePath": "buildTransitive\\OverFlow.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
